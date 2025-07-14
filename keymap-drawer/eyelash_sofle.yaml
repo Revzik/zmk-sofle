@@ -26,7 +26,7 @@ layers:
   - J
   - K
   - L
-  - {t: \, s: '|'}
+  - {t: ;, s: ':'}
   - {t: '`', s: '~'}
   - {t: S, h: '$$mdi:apple-keyboard-command$$'}
   - {t: A, h: '$$mdi:apple-keyboard-option$$'}
