@@ -44,7 +44,7 @@
         base {
             bindings = <
 &kp CAPS    &kp N1            &kp N2             &kp N3       &kp N4            &kp N5       &kp UP_ARROW     &kp N6                &kp N7             &kp N8         &kp N9          &kp N0           &to 1
-&kp ESC     &kp Q             &kp W              &kp R        &kp F             &kp SLASH    &kp DOWN_ARROW   &kp NON_US_BACKSLASH  &kp H              &kp J          &kp K           &kp L            &kp BSLH
+&kp ESC     &kp Q             &kp W              &kp R        &kp F             &kp SLASH    &kp DOWN_ARROW   &kp NON_US_BACKSLASH  &kp H              &kp J          &kp K           &kp L            &kp SEMI
 &kp GRAVE   &mt LEFT_GUI S    &mt LEFT_ALT A     &mt LCTRL E  &mt LEFT_SHIFT D  &kp G        &kp LEFT_ARROW   &kp T                 &mt RIGHT_SHIFT Y  &mt RCTRL U    &mt LEFT_ALT I  &mt RIGHT_GUI O  &kp APOS
 &tog 3      &kp Z             &kp X              &kp C        &kp V             &kp COMMA    &kp RIGHT_ARROW  &kp PERIOD            &kp B              &kp N          &kp M           &kp P            &tog 2
 &kp C_MUTE  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp DELETE   &kp TAB           &kp SPACE    &kp ENTER        &kp RET               &kp RIGHT_ALT      &kp BACKSPACE  &kp MINUS       &kp EQUAL
